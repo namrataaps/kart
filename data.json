@@ -1,38 +1,38 @@
 [
   {
     "id": 0,
-    "name": "Laptop",
-    "price": 40000,
+    "name": "Truphe Gardening Tools",
+    "price": 564,
     "color": "223344"
   },
   {
     "id": 1,
-    "name": "Mobile",
-    "price": 20000,
+    "name": "Falcon FGT-1200 Premium 12 Pcs",
+    "price": 3024,
     "color": "223344"
   },
   {
     "id": 2,
-    "name": "Desktop",
-    "price": 35000,
+    "name": "Yking Petrol Brush cutter 4270-P SF",
+    "price": 5642,
     "color": "223344"
   },
   {
     "id": 3,
-    "name": "Headphone",
-    "price": 7000,
+    "name": "Pegasus Insecticide Syngenta",
+    "price": 136,
     "color": "223344"
   },
   {
     "id": 4,
-    "name": "Smartwatch",
-    "price": 15000,
+    "name": "green Beauveria",
+    "price": 180,
     "color": "223344"
   },
   {
     "id": 5,
-    "name": "Playstation",
-    "price": 30000,
+    "name": "Bayer Agenda",
+    "price":  1600,
     "color": "223344"
   }
 ]
